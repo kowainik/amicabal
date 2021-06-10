@@ -68,6 +68,7 @@ library
   import:              common-options
   hs-source-dirs:      src
   exposed-modules:     Amicabal
+                         Amicabal.AST
 
 executable amicabal
   import:              common-options
